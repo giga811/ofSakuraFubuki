@@ -1,11 +1,13 @@
 # ofSakuraFubuki
-Sakura Fubuki using Openframeworks
+1. Sakura Fubuki using Openframeworks
 
-Project is based on emptyExample from [Openframeworks](http://openframeworks.jp/download/) sample code.
+2. Project is based on emptyExample from [Openframeworks](http://openframeworks.jp/download/) sample code.
 
-Main algorithm is adopted from [this js](http://plusone.jpn.org/javascript/sample/movie/sakura.html).
+3. Main algorithm is adopted from [this js](http://plusone.jpn.org/javascript/sample/movie/sakura.html).
 
-**Modify some variables in order to make it work.
+4. **Modify some variables in order to make it work.**
 
-Screenshot:
-![alt text](https://github.com/giga811/ofSakuraFubuki/sakura_capt.png "Logo Title Text 1")
+Screenshots:
+![alt text](https://raw.githubusercontent.com/giga811/ofSakuraFubuki/master/sakura_capt1.png "capture1")
+
+![alt text](https://raw.githubusercontent.com/giga811/ofSakuraFubuki/master/sakura_capt2.png "capture2")
