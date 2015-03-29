@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>23D22270-5AAA-46D6-B26B-0FC41CA7B414</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ofSakuraFubuki</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>6620A509DFA79ACAE0E38F888182B1611BC04307</key>
+		<string>https://github.com/giga811/ofSakuraFubuki.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ofSakuraFubuki.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>6620A509DFA79ACAE0E38F888182B1611BC04307</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/giga811/ofSakuraFubuki.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>6620A509DFA79ACAE0E38F888182B1611BC04307</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>6620A509DFA79ACAE0E38F888182B1611BC04307</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ofSakuraFubuki</string>
+		</dict>
+	</array>
+</dict>
+</plist>
